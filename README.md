@@ -7,11 +7,17 @@ Insulators in high-voltage power supply lines are one kind of the most important
 Authors
 
 AL MUSABBIR
+
 MSC in CSE, United International University, Dhaka, Bangladesh
+
 BSC in CSE, North South University, Dhaka, Bangladesh
+
 Email: almusabbir.rakin@gmail.com, al.musabbir@northsouth.edu, amusabbir2510010@mscse.uiu.ac.bd
 
 GAZI MERAZ MEHEDI AFRIDI
+
 Researcher at mPower Social Enterprises Ltd.
+
 BSC in CSE, North South University, Dhaka, Bangladesh
+
 Email: meraz.afridi@gmail.com, gazi.mehedi@northsouth.edu
